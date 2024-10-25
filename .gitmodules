@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:RobynTheDevil/MoTSK-Development
+[submodule "patcher"]
+	path = patcher
+	url = git@github.com:RobynTheDevil/MerchantMods
